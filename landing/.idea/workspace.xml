@@ -4,7 +4,7 @@
     <list default="true" id="350af328-ed2f-411d-ba66-1808c162c703" name="Default" comment="" />
     <ignored path="WiU Landing Page Template.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="350af328-ed2f-411d-ba66-1808c162c703" time="1386303703735" ignored="false" />
+    <file path="/index.html" changelist="350af328-ed2f-411d-ba66-1808c162c703" time="1386735246410" ignored="false" />
     <file path="/main.css" changelist="350af328-ed2f-411d-ba66-1808c162c703" time="1385824352996" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="86" selection-start="2905" selection-end="2905" vertical-scroll-proportion="0.54814816">
+            <state line="73" column="85" selection-start="3697" selection-end="3697" vertical-scroll-proportion="0.7111111">
               <folding />
             </state>
           </provider>
@@ -59,8 +59,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="22" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
     <option name="width" value="1337" />
     <option name="height" value="860" />
   </component>
@@ -138,7 +138,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="22" width="1337" height="860" extended-state="0" />
+    <frame x="67" y="25" width="1337" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="86" selection-start="2905" selection-end="2905" vertical-scroll-proportion="0.54814816">
+        <state line="73" column="85" selection-start="3697" selection-end="3697" vertical-scroll-proportion="0.7111111">
           <folding />
         </state>
       </provider>
